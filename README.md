@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm a passionate developer, but more importantly I'm passionate about technology.
 
 <!--
 **RyanBurdick/RyanBurdick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
